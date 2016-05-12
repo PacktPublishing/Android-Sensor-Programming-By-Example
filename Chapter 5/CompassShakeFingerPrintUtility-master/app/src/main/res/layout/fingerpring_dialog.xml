@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" >
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="5dp"
+        android:src="@drawable/ic_fp_40px"/>
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FFF"
+        android:text="Place your finger on the Finger Print Sensor for Authentication."
+        android:layout_toRightOf="@+id/image"/>/>
+
+    <Button
+        android:id="@+id/cancelbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Cancel "
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_below="@+id/image"
+        android:layout_centerHorizontal="true"
+        />
+
+</RelativeLayout>

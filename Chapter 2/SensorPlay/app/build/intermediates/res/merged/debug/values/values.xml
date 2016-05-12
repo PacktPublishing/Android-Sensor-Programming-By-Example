@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/vnagp/Google%20Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/vnagp/Google%20Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">SensorPlay</string>
+    <string name="sensor_type">sensortype</string>
+    <!-- From: file:/Users/vnagp/Google%20Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="list_raw_text_style">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">55dip</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">17dip</item>
+        <item name="android:paddingLeft">19dip</item>
+        <item name="android:text">Default Text</item>
+    </style>
+</resources>

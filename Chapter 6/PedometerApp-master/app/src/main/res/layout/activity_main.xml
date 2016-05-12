@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:paddingTop="@dimen/activity_vertical_margin"
+                android:paddingBottom="@dimen/activity_vertical_margin"
+                tools:context=".MainActivity"
+                android:background="@android:color/white"
+                android:orientation="vertical">
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Simple Step Counter On UI"
+        android:id="@+id/button"
+        android:layout_gravity="center_horizontal"
+        android:clickable="true"
+        android:onClick="navigateToStepCounterActivity"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Steps History using Step Detector"
+        android:id="@+id/button2"
+        android:onClick="navigateToStepHistoryActivity"
+        android:layout_gravity="center_horizontal"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Custom Step Detection Algorithm"
+        android:id="@+id/button3"
+        android:onClick="navigateToCustomAlgoActivity"
+        android:layout_gravity="center_horizontal"/>
+</LinearLayout>

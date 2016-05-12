@@ -1,0 +1,57 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:paddingLeft="@dimen/activity_horizontal_margin"
+              android:paddingRight="@dimen/activity_horizontal_margin"
+              android:paddingTop="@dimen/activity_vertical_margin"
+              android:paddingBottom="@dimen/activity_vertical_margin"
+              tools:context=".CompareSensorActivity"
+              android:orientation="vertical"
+              android:background="#ffffff">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/temperaturetext"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#000000"/>
+    
+      <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/pressuretext"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#000000"/>
+      
+       <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/relativehumiditytext"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#000000"/>
+
+       
+       <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/temperaturewstext"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#000000"/>
+    
+      <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/pressurewstext"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#000000"/>
+      
+       <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/relativehumiditywstext"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#000000"/>
+
+</LinearLayout>
+<!-- From: file:/Users/vnagp/Google%20Drive/AllSourceCode/AndroidStudioWorkSpace/WeatherUtility/app/src/main/res/layout/comparesensor_layout.xml -->

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/vnagp/Downloads/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-ce9665a1be4136dfbfd329905644618b329193f4.jar" />
+    </item>
+
+</items>

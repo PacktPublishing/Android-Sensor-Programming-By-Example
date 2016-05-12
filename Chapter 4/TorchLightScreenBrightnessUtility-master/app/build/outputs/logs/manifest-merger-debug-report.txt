@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.2.1] /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:11:5-73
+	android:name
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:11:22-70
+uses-permission#android.permission.CAMERA
+ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:12:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:13:5-69
+	android:name
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:13:22-66
+uses-feature#android.hardware.camera
+ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:15:5-60
+	android:name
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:15:19-57
+application
+ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:17:5-49:19
+MERGED from [com.android.support:support-v4:22.2.1] /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:20:9-41
+	android:allowBackup
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:19:9-45
+	android:theme
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:21:9-40
+activity#com.automatic.torchlight.MainActivity
+ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:23:9-31:20
+	android:screenOrientation
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:25:13-49
+	android:theme
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:26:13-66
+	android:name
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:24:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:29:27-74
+activity#com.automatic.torchlight.LightSensorActivity
+ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:32:9-39:20
+	android:screenOrientation
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:33:19-55
+	android:parentActivityName
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:34:19-61
+	android:theme
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:35:19-72
+	android:name
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:32:19-54
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:36:13-38:49
+	android:value
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:38:17-46
+	android:name
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:37:17-63
+activity#com.automatic.torchlight.ProximitySensorActivity
+ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:41:9-48:20
+	android:screenOrientation
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:42:19-55
+	android:parentActivityName
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:43:19-61
+	android:theme
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:44:19-72
+	android:name
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/TorchLightScreenBrightness/app/src/main/AndroidManifest.xml:41:19-58

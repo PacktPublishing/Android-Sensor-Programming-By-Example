@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:11:5-51:19
+	android:label
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:13:9-45
+activity#com.sensorplay.SensorListActivity
+ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:17:9-25:20
+	android:screenOrientation
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:19:14-50
+	android:theme
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:20:14-67
+	android:name
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:18:13-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.sensorplay.SensorCapabilityActivity
+ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:27:9-36:21
+	android:screenOrientation
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:28:12-48
+	android:parentActivityName
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:29:12-74
+	android:theme
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:30:12-65
+	android:name
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:27:19-73
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:32:14-34:65
+	android:value
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:34:13-62
+	android:name
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:33:13-59
+activity#com.sensorplay.SensorValuesActivity
+ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:38:10-47:21
+	android:screenOrientation
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:39:12-48
+	android:parentActivityName
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:40:12-74
+	android:theme
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:41:12-65
+	android:name
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:38:20-70
+service#com.sensorplay.SensorService
+ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:49:11-65
+	android:name
+		ADDED from /Users/vnagp/Google Drive/AllSourceCode/AndroidStudioWorkSpace/SensorPlay/app/src/main/AndroidManifest.xml:49:20-63
