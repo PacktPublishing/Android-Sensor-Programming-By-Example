@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B04161?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # Android Sensor Programming By Example
 
 You will need a Windows or a Mac system with Android Studio to run the examples in this book. All the examples are developed using Android Studio, but you can still execute them on Eclipse with ADT by exporting them to an Eclipse project structure. You are encouraged to run all the examples in the book on a real Android device as there is no official support for sensors in the Android emulator. An open source sensor simulator is available, and it will simulate some of the sensors on the Android emulator in real time. It is available at https://code.google.com/p/openintents/wiki/SensorSimulator.
