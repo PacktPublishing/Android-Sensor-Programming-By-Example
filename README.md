@@ -7,3 +7,7 @@ You can also refer to the following books:
 * [Android Programming for Beginners](https://www.packtpub.com/application-development/android-programming-beginners?utm_source=github&utm_medium=related&utm_campaign=9781785883262)
 * [Android 3.0 Application Development Cookbook](https://www.packtpub.com/application-development/android-30-application-development-cookbook?utm_source=github&utm_medium=related&utm_campaign=9781849512947)
 * [Android Database Programming](https://www.packtpub.com/application-development/android-database-programming?utm_source=github&utm_medium=related&utm_campaign=9781849518123)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781785285509">https://packt.link/free-ebook/9781785285509 </a> </p>
